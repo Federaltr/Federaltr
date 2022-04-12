@@ -1,7 +1,7 @@
 ## Hi there 👋  Halil AYDIN is here. (LOADING...)
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halilayd%C4%B1n/) 
-<a href=https://federaltr.github.io/ target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=habip-bingol" alt="visitor counter"/>
+[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halilayd%C4%B1n/ target="_blank") 
+<a href=https://federaltr.github.io/ target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=Federaltr" alt="visitor counter"/>
 <!-- <p align="left">  </p> -->
 
 ### What I'm using ? 🛠    
@@ -11,7 +11,7 @@
 
 - 💬 Ask  me about anything that you want to learn
 
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/habip-bingöl-mrb25/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
+-  You can reach me via Linkedin:  <a href=https://www.linkedin.com/in/halilayd%C4%B1n/ target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
 ## 🚀 Skills
