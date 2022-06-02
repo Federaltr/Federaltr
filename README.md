@@ -31,7 +31,7 @@ I’m currently learning Data Science and Data Analysis tools.
 <p align="center">
 <a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
 <a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
-<!--a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
+<!--a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a> -->
 </p>
 
 ## 🚀 Skills
@@ -61,7 +61,7 @@ I’m currently learning Data Science and Data Analysis tools.
 </p>
 
 
-## 📈 Statistics
+<div align="center"> <h1 align="center"> :chart_with_upwards_trend: STATISTICS </h1> </div>
 <p align="center">
 <img src="https://github-readme-stats.vercel.app/api?username=Federaltr&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Federaltr&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
