@@ -75,31 +75,31 @@
 <a href="https://github.com/Federaltr/DataScience_Lessons_Code">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=DataScience_Lessons_Code&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/02_ASSIGNMENTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
+<a href="https://github.com/Federaltr/Python-Assignments">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=Python-Assignments&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/03_PROJECTS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
+<a href="https://github.com/Federaltr/MyProject">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=MyProject&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/04_PYTHON">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
+<a href="https://github.com/Federaltr/Microsoft-SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=Microsoft-SQL&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/05_SQL">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
+<a href="https://github.com/Federaltr/SQLite">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=SQLite&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/06_GSS_SPREADSHEET">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEET&theme=algolia" />
+<a href="https://github.com/Federaltr/MyCertificates">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=MyCertificates&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/07_TABLEAU">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=07_TABLEAU&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/08_HTML_CSS_JAVASCRIPT">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/09_STATISTICS">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=09_STATISTICS&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=09_STATISTICS&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/10_CERTIFICATES">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=10_CERTIFICATES&theme=algolia" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=10_CERTIFICATES&theme=algolia" />
 </a>
 </p>
