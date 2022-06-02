@@ -15,17 +15,24 @@ I’m currently learning Data Science and Data Analysis tools.
 
 -  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/halilayd%C4%B1n/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
-## Data Visualization
+<div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
 <a href="#" target="_blank"> <img src="https://matplotlib.org/stable/_static/logo2_compressed.svg" alt="Matplotlib" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="50"/> </a>
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
-## Python Libraries
+<div align="center"> <h1 align="center"> :books:PYTHON LIBRARIES </h1> </div>
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
 <a href="#" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ed/Pandas_logo.svg/2560px-Pandas_logo.svg.png" alt="Pandas" height="70"/> </a>
 <a href="#" target="_blank"> <img src="https://scipy.org/images/logo.svg" alt="SciPy" width="75"/> </a>
 <a href="#" target="_blank"> <img src="https://seaborn.pydata.org/_static/logo-wide-lightbg.svg" alt="Seaborn" width="120"/> </a>
 
+<div align="center"> <h1 align="center"> :bar_chart: LANGUAGES </h1> </div>
+
+<p align="center">
+<a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
+<!--a href="#" target="_blank"> <img align="center" src="https://ouzhang.me/talk/2019-dde-vba/featured.jpg" alt="VBA" height="60"/> </a>
+</p>
 
 ## 🚀 Skills
 <p>
