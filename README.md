@@ -90,7 +90,7 @@
 <a href="https://github.com/Federaltr/MyCertificates">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=MyCertificates&theme=algolia" />
 </a>
-<a href="https://github.com/emir1031/07_TABLEAU">
+<!--a href="https://github.com/emir1031/07_TABLEAU">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=07_TABLEAU&theme=algolia" />
 </a>
 <a href="https://github.com/emir1031/08_HTML_CSS_JAVASCRIPT">
