@@ -69,3 +69,37 @@
 <img src="https://github-readme-stats.vercel.app/api?username=Federaltr&theme=chartreuse-dark&show_icons=true" alt="my github stats" width="49%"/>&nbsp;
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Federaltr&theme=chartreuse-dark&show_icons=true" alt="my commit status" width="49%" /> </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Federaltr&theme=chartreuse-dark&layout=compact" alt="languages" width="50%" > </p>
+
+
+<p align="center">
+<a href="https://github.com/Federaltr/DataScience_Lessons_Code">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Federaltr&repo=DataScience_Lessons_Code&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/02_ASSIGNMENTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=02_ASSIGNMENTS&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/03_PROJECTS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=03_PROJECTS&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/04_PYTHON">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=04_PYTHON&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/05_SQL">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=05_SQL&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/06_GSS_SPREADSHEET">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=06_GSS_SPREADSHEET&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/07_TABLEAU">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=07_TABLEAU&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/08_HTML_CSS_JAVASCRIPT">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=08_HTML_CSS_JAVASCRIPT&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/09_STATISTICS">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=09_STATISTICS&theme=algolia" />
+</a>
+<a href="https://github.com/emir1031/10_CERTIFICATES">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=emir1031&repo=10_CERTIFICATES&theme=algolia" />
+</a>
+</p>
