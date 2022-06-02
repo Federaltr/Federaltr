@@ -1,9 +1,10 @@
 <div align="center"> <h1 align="center"> Hi There! This is HALİL 👋 </h1> </div>
 
+
 <h3 align="center">💬 A self-motivated tech enthusiast and Engineer from TURKEY 💬</h3>
 
-<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 
+<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 <p align="center">
 <a href="https://www.linkedin.com/in/halilayd%C4%B1n/">
   <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
@@ -21,8 +22,6 @@
   <img align="center" src="https://komarev.com/ghpvc/?username=Federaltr" alt="HALİL"  width="16%"/>
 </a>
 </p>
-
-
 
 
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
