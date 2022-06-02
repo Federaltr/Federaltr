@@ -1,19 +1,28 @@
 <div align="center"> <h1 align="center"> Hi There! This is HALİL 👋 </h1> </div>
 
-[![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/halilayd%C4%B1n/) 
-<a href="https://github.com/Federaltr" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160260064-ff3aa908-cbfd-4350-ab28-a26a0b7a1819.png" alt="github_pages" height="28.5"/></a> <img src="https://komarev.com/ghpvc/?username=Federaltr" alt="visitor counter"/>
-<!-- <p align="left">  </p> -->
+<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from TURKEY 💬</h3>
 
-I’m currently learning Data Science and Data Analysis tools.
+<div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
 
-### What I'm using ? 🛠    
+<p align="center">
+<a href="https://www.linkedin.com/in/halilayd%C4%B1n/">
+  <img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:hllaydnyzn@gmail.com">  
+  <img align="center" src="https://img.shields.io/badge/gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red" />
+</a>
+<a href="https://-...-.medium.com">
+  <img align="center" src="https://img.shields.io/badge/%20-medium-black?&style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://www.hackerrank.com/hllaydnyzn">
+  <img align="center" src="https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white" alt="HackerRank"/>
+</a>
+<a href="https://github.com/Federaltr">
+  <img align="center" src="https://komarev.com/ghpvc/?username=Federaltr" alt="HALİL"  width="16%"/>
+</a>
+</p>
 
 
-- Python, SQL, Git, GitHub
-
-- 💬 Ask  me about anything that you want to learn
-
--  You can reach me via Linkedin:  <a href="https://www.linkedin.com/in/halilayd%C4%B1n/" target="_blank"> <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="Linkedin" height="20"/></a>
 
 
 <div align="center"> <h1 align="center"> :see_no_evil: DATA VISUALIZATION </h1> </div>
@@ -24,7 +33,15 @@ I’m currently learning Data Science and Data Analysis tools.
 <a href="#" target="_blank"> <img src="https://www.tableau.com/sites/default/files/pages/tableaulogo_highres.png" alt="Tableau" height="50"/> </a>
 </p>
  
+
+<div align="center"> <h1 align="center"> :bar_chart: LANGUAGES </h1> </div>
+<p align="center">
+<a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
+<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
+<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="70"/>
+</p>
  
+  
 <div align="center"> <h1 align="center"> :books:PYTHON LIBRARIES </h1> </div>
 <p align="center">
 <a href="#" target="_blank"> <img src="https://numpy.org/doc/stable/_static/numpylogo.svg" alt="Numpy" width="120"/> </a>
@@ -34,14 +51,6 @@ I’m currently learning Data Science and Data Analysis tools.
 </p>
 
 
-<div align="center"> <h1 align="center"> :bar_chart: LANGUAGES </h1> </div>
-<p align="center">
-<a href="#" target="_blank"> <img align="center" src="https://download.logo.wine/logo/Python_(programming_language)/Python_(programming_language)-Logo.wine.png" alt="Python" width="150"/> </a>
-<a href="#" target="_blank"> <img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/SQLite370.svg/1200px-SQLite370.svg.png" alt="SQLite" height="60"/> </a>
-<a href="https://www.microsoft.com/en-us/sql-server" target="_blank"> <img src="https://www.svgrepo.com/show/303229/microsoft-sql-server-logo.svg" alt="mssql" height="70"/>
-</p>
-
- 
 <div align="center"> <h1 align="center"> ⚙ TOOLS </h1> </div>
 <p align="center">
  <a href="#" target="_blank"> <img src="https://user-images.githubusercontent.com/94930605/160258641-8ae74778-b44c-4767-a777-e5ece56b29f8.png" alt="html" height="48"/> </a>
