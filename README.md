@@ -1,8 +1,6 @@
-
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello World!🫡&animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello World!🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
-
 
 <h3 align="center">💬 A self-motivated tech enthusiast and Engineer from TURKEY 💬</h3>
 
