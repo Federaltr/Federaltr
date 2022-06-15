@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hello World!🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
-<h2 align="center">This is HALİL :soldier:</h2>
+<h2 align="center">This is HALİL 🧑‍🔬 </h2>
 
 <h3 align="center">💬 A self-motivated tech enthusiast and Engineer from TURKEY 💬</h3>
 
