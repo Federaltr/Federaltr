@@ -1,7 +1,6 @@
-<div align="center"> <h1 align="center"> Hi There! This is HALİL 👋 </h1> </div>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Hello World!🤖 This is HALİL 👋 &animation=fadeIn&type=waving&color=gradient&height=100"/>
+  <img src="https://capsule-render.vercel.app/api?text=Hello World!🤖 This is HALİL 👋&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 
 
