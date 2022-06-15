@@ -4,7 +4,7 @@
 
 <h2 align="center">This is HALİL 👨‍🔬 </h2>
 
-<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from TURKEY 💬</h3>
+<h3 align="center">💬 A self-motivated tech enthusiast and Engineer from TURKEY  <img src='png/TR@2x.png?raw=true' width='21' height='15'> 💬</h3>
 
 
 <div align="center"> <h1 align="center"> 👨 SOCIAL 👩 </h1> </div>
