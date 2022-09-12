@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?text=Data is new world!🤖 &animation=fadeIn&type=waving&color=gradient&height=100"/>
+ Data is new world!🤖 
 </p>
 
 <h2 align="center">This is HALİL 👨‍🔬 </h2>
