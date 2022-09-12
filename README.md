@@ -1,6 +1,6 @@
-<p align="center">
+<h1 align="center">
  Data is new world!🤖 
-</p>
+</h1>
 
 <h2 align="center">This is HALİL 👨‍🔬 </h2>
 
